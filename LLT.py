@@ -78,7 +78,7 @@ def unique_permutations_three(n, perm_two):
 
     return unique_perms_list
 
-n=3
+n=4
 
 counter = 0
 combined_list = []
