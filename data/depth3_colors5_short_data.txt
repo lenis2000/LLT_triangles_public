@@ -1,0 +1,1218 @@
+Two levels permutations: 608
+1 of 608 - consists of 608 - permutation 1 1 2 2 3 3 4 4 5 5
+========================
+2 of 608 - consists of 1104 - permutation 1 1 2 2 3 3 4 5 4 5
+========================
+3 of 608 - consists of 1744 - permutation 1 1 2 2 3 4 3 4 5 5
+========================
+4 of 608 - consists of 2048 - permutation 1 1 2 2 3 4 3 5 4 5
+========================
+5 of 608 - consists of 2224 - permutation 1 1 2 2 3 4 5 3 4 5
+========================
+6 of 608 - consists of 2096 - permutation 1 1 2 2 3 4 5 4 3 5
+========================
+7 of 608 - consists of 2224 - permutation 1 1 2 2 3 5 4 3 4 5
+========================
+8 of 608 - consists of 1296 - permutation 1 1 2 2 3 5 4 4 3 5
+========================
+9 of 608 - consists of 1744 - permutation 1 1 2 3 2 3 4 4 5 5
+========================
+10 of 608 - consists of 3216 - permutation 1 1 2 3 2 3 4 5 4 5
+========================
+11 of 608 - consists of 3200 - permutation 1 1 2 3 2 4 3 4 5 5
+========================
+12 of 608 - consists of 3696 - permutation 1 1 2 3 2 4 3 5 4 5
+========================
+13 of 608 - consists of 3792 - permutation 1 1 2 3 2 4 5 3 4 5
+========================
+14 of 608 - consists of 3392 - permutation 1 1 2 3 2 4 5 4 3 5
+========================
+15 of 608 - consists of 3792 - permutation 1 1 2 3 2 5 4 3 4 5
+========================
+16 of 608 - consists of 2096 - permutation 1 1 2 3 2 5 4 4 3 5
+========================
+17 of 608 - consists of 3616 - permutation 1 1 2 3 4 2 3 4 5 5
+========================
+18 of 608 - consists of 3936 - permutation 1 1 2 3 4 2 3 5 4 5
+========================
+19 of 608 - consists of 4032 - permutation 1 1 2 3 4 2 5 3 4 5
+========================
+20 of 608 - consists of 3808 - permutation 1 1 2 3 4 2 5 4 3 5
+========================
+21 of 608 - consists of 3392 - permutation 1 1 2 3 4 3 2 4 5 5
+========================
+22 of 608 - consists of 3696 - permutation 1 1 2 3 4 3 2 5 4 5
+========================
+23 of 608 - consists of 3744 - permutation 1 1 2 3 4 3 5 2 4 5
+========================
+24 of 608 - consists of 3488 - permutation 1 1 2 3 4 3 5 4 2 5
+========================
+25 of 608 - consists of 4272 - permutation 1 1 2 3 4 5 2 3 4 5
+========================
+26 of 608 - consists of 4032 - permutation 1 1 2 3 4 5 2 4 3 5
+========================
+27 of 608 - consists of 4224 - permutation 1 1 2 3 4 5 3 2 4 5
+========================
+28 of 608 - consists of 3936 - permutation 1 1 2 3 4 5 3 4 2 5
+========================
+29 of 608 - consists of 4032 - permutation 1 1 2 3 5 2 4 3 4 5
+========================
+30 of 608 - consists of 2224 - permutation 1 1 2 3 5 2 4 4 3 5
+========================
+31 of 608 - consists of 3744 - permutation 1 1 2 3 5 3 4 2 4 5
+========================
+32 of 608 - consists of 2048 - permutation 1 1 2 3 5 3 4 4 2 5
+========================
+33 of 608 - consists of 4272 - permutation 1 1 2 3 5 4 2 3 4 5
+========================
+34 of 608 - consists of 3792 - permutation 1 1 2 3 5 4 2 4 3 5
+========================
+35 of 608 - consists of 4224 - permutation 1 1 2 3 5 4 3 2 4 5
+========================
+36 of 608 - consists of 3696 - permutation 1 1 2 3 5 4 3 4 2 5
+========================
+37 of 608 - consists of 3392 - permutation 1 1 2 4 3 2 3 4 5 5
+========================
+38 of 608 - consists of 3488 - permutation 1 1 2 4 3 2 3 5 4 5
+========================
+39 of 608 - consists of 3808 - permutation 1 1 2 4 3 2 5 3 4 5
+========================
+40 of 608 - consists of 4032 - permutation 1 1 2 4 3 2 5 4 3 5
+========================
+41 of 608 - consists of 1888 - permutation 1 1 2 4 3 3 2 4 5 5
+========================
+42 of 608 - consists of 1952 - permutation 1 1 2 4 3 3 2 5 4 5
+========================
+43 of 608 - consists of 1984 - permutation 1 1 2 4 3 3 5 2 4 5
+========================
+44 of 608 - consists of 1952 - permutation 1 1 2 4 3 3 5 4 2 5
+========================
+45 of 608 - consists of 4032 - permutation 1 1 2 4 3 5 2 3 4 5
+========================
+46 of 608 - consists of 4272 - permutation 1 1 2 4 3 5 2 4 3 5
+========================
+47 of 608 - consists of 3744 - permutation 1 1 2 4 3 5 3 2 4 5
+========================
+48 of 608 - consists of 3696 - permutation 1 1 2 4 3 5 3 4 2 5
+========================
+49 of 608 - consists of 3808 - permutation 1 1 2 5 3 2 4 3 4 5
+========================
+50 of 608 - consists of 2224 - permutation 1 1 2 5 3 2 4 4 3 5
+========================
+51 of 608 - consists of 1984 - permutation 1 1 2 5 3 3 4 2 4 5
+========================
+52 of 608 - consists of 1104 - permutation 1 1 2 5 3 3 4 4 2 5
+========================
+53 of 608 - consists of 4032 - permutation 1 1 2 5 3 4 2 3 4 5
+========================
+54 of 608 - consists of 3792 - permutation 1 1 2 5 3 4 2 4 3 5
+========================
+55 of 608 - consists of 3744 - permutation 1 1 2 5 3 4 3 2 4 5
+========================
+56 of 608 - consists of 3216 - permutation 1 1 2 5 3 4 3 4 2 5
+========================
+57 of 608 - consists of 1104 - permutation 1 2 1 2 3 3 4 4 5 5
+========================
+58 of 608 - consists of 2016 - permutation 1 2 1 2 3 3 4 5 4 5
+========================
+59 of 608 - consists of 3216 - permutation 1 2 1 2 3 4 3 4 5 5
+========================
+60 of 608 - consists of 3792 - permutation 1 2 1 2 3 4 3 5 4 5
+========================
+61 of 608 - consists of 4128 - permutation 1 2 1 2 3 4 5 3 4 5
+========================
+62 of 608 - consists of 3888 - permutation 1 2 1 2 3 4 5 4 3 5
+========================
+63 of 608 - consists of 4128 - permutation 1 2 1 2 3 5 4 3 4 5
+========================
+64 of 608 - consists of 2400 - permutation 1 2 1 2 3 5 4 4 3 5
+========================
+65 of 608 - consists of 2048 - permutation 1 2 1 3 2 3 4 4 5 5
+========================
+66 of 608 - consists of 3792 - permutation 1 2 1 3 2 3 4 5 4 5
+========================
+67 of 608 - consists of 3696 - permutation 1 2 1 3 2 4 3 4 5 5
+========================
+68 of 608 - consists of 4272 - permutation 1 2 1 3 2 4 3 5 4 5
+========================
+69 of 608 - consists of 4368 - permutation 1 2 1 3 2 4 5 3 4 5
+========================
+70 of 608 - consists of 3888 - permutation 1 2 1 3 2 4 5 4 3 5
+========================
+71 of 608 - consists of 4368 - permutation 1 2 1 3 2 5 4 3 4 5
+========================
+72 of 608 - consists of 2400 - permutation 1 2 1 3 2 5 4 4 3 5
+========================
+73 of 608 - consists of 3936 - permutation 1 2 1 3 4 2 3 4 5 5
+========================
+74 of 608 - consists of 4272 - permutation 1 2 1 3 4 2 3 5 4 5
+========================
+75 of 608 - consists of 4368 - permutation 1 2 1 3 4 2 5 3 4 5
+========================
+76 of 608 - consists of 4128 - permutation 1 2 1 3 4 2 5 4 3 5
+========================
+77 of 608 - consists of 3488 - permutation 1 2 1 3 4 3 2 4 5 5
+========================
+78 of 608 - consists of 3792 - permutation 1 2 1 3 4 3 2 5 4 5
+========================
+79 of 608 - consists of 3792 - permutation 1 2 1 3 4 3 5 2 4 5
+========================
+80 of 608 - consists of 3488 - permutation 1 2 1 3 4 3 5 4 2 5
+========================
+81 of 608 - consists of 4368 - permutation 1 2 1 3 4 5 2 3 4 5
+========================
+82 of 608 - consists of 4128 - permutation 1 2 1 3 4 5 2 4 3 5
+========================
+83 of 608 - consists of 4272 - permutation 1 2 1 3 4 5 3 2 4 5
+========================
+84 of 608 - consists of 3936 - permutation 1 2 1 3 4 5 3 4 2 5
+========================
+85 of 608 - consists of 4368 - permutation 1 2 1 3 5 2 4 3 4 5
+========================
+86 of 608 - consists of 2400 - permutation 1 2 1 3 5 2 4 4 3 5
+========================
+87 of 608 - consists of 3792 - permutation 1 2 1 3 5 3 4 2 4 5
+========================
+88 of 608 - consists of 2048 - permutation 1 2 1 3 5 3 4 4 2 5
+========================
+89 of 608 - consists of 4368 - permutation 1 2 1 3 5 4 2 3 4 5
+========================
+90 of 608 - consists of 3888 - permutation 1 2 1 3 5 4 2 4 3 5
+========================
+91 of 608 - consists of 4272 - permutation 1 2 1 3 5 4 3 2 4 5
+========================
+92 of 608 - consists of 3696 - permutation 1 2 1 3 5 4 3 4 2 5
+========================
+93 of 608 - consists of 3696 - permutation 1 2 1 4 3 2 3 4 5 5
+========================
+94 of 608 - consists of 3792 - permutation 1 2 1 4 3 2 3 5 4 5
+========================
+95 of 608 - consists of 4128 - permutation 1 2 1 4 3 2 5 3 4 5
+========================
+96 of 608 - consists of 4368 - permutation 1 2 1 4 3 2 5 4 3 5
+========================
+97 of 608 - consists of 1952 - permutation 1 2 1 4 3 3 2 4 5 5
+========================
+98 of 608 - consists of 2016 - permutation 1 2 1 4 3 3 2 5 4 5
+========================
+99 of 608 - consists of 2016 - permutation 1 2 1 4 3 3 5 2 4 5
+========================
+100 of 608 - consists of 1952 - permutation 1 2 1 4 3 3 5 4 2 5
+========================
+101 of 608 - consists of 4128 - permutation 1 2 1 4 3 5 2 3 4 5
+========================
+102 of 608 - consists of 4368 - permutation 1 2 1 4 3 5 2 4 3 5
+========================
+103 of 608 - consists of 3792 - permutation 1 2 1 4 3 5 3 2 4 5
+========================
+104 of 608 - consists of 3696 - permutation 1 2 1 4 3 5 3 4 2 5
+========================
+105 of 608 - consists of 4128 - permutation 1 2 1 5 3 2 4 3 4 5
+========================
+106 of 608 - consists of 2400 - permutation 1 2 1 5 3 2 4 4 3 5
+========================
+107 of 608 - consists of 2016 - permutation 1 2 1 5 3 3 4 2 4 5
+========================
+108 of 608 - consists of 1104 - permutation 1 2 1 5 3 3 4 4 2 5
+========================
+109 of 608 - consists of 4128 - permutation 1 2 1 5 3 4 2 3 4 5
+========================
+110 of 608 - consists of 3888 - permutation 1 2 1 5 3 4 2 4 3 5
+========================
+111 of 608 - consists of 3792 - permutation 1 2 1 5 3 4 3 2 4 5
+========================
+112 of 608 - consists of 3216 - permutation 1 2 1 5 3 4 3 4 2 5
+========================
+113 of 608 - consists of 2224 - permutation 1 2 3 1 2 3 4 4 5 5
+========================
+114 of 608 - consists of 4128 - permutation 1 2 3 1 2 3 4 5 4 5
+========================
+115 of 608 - consists of 3792 - permutation 1 2 3 1 2 4 3 4 5 5
+========================
+116 of 608 - consists of 4368 - permutation 1 2 3 1 2 4 3 5 4 5
+========================
+117 of 608 - consists of 4416 - permutation 1 2 3 1 2 4 5 3 4 5
+========================
+118 of 608 - consists of 3888 - permutation 1 2 3 1 2 4 5 4 3 5
+========================
+119 of 608 - consists of 4416 - permutation 1 2 3 1 2 5 4 3 4 5
+========================
+120 of 608 - consists of 2400 - permutation 1 2 3 1 2 5 4 4 3 5
+========================
+121 of 608 - consists of 4032 - permutation 1 2 3 1 4 2 3 4 5 5
+========================
+122 of 608 - consists of 4368 - permutation 1 2 3 1 4 2 3 5 4 5
+========================
+123 of 608 - consists of 4416 - permutation 1 2 3 1 4 2 5 3 4 5
+========================
+124 of 608 - consists of 4128 - permutation 1 2 3 1 4 2 5 4 3 5
+========================
+125 of 608 - consists of 3808 - permutation 1 2 3 1 4 3 2 4 5 5
+========================
+126 of 608 - consists of 4128 - permutation 1 2 3 1 4 3 2 5 4 5
+========================
+127 of 608 - consists of 4128 - permutation 1 2 3 1 4 3 5 2 4 5
+========================
+128 of 608 - consists of 3808 - permutation 1 2 3 1 4 3 5 4 2 5
+========================
+129 of 608 - consists of 4416 - permutation 1 2 3 1 4 5 2 3 4 5
+========================
+130 of 608 - consists of 4128 - permutation 1 2 3 1 4 5 2 4 3 5
+========================
+131 of 608 - consists of 4368 - permutation 1 2 3 1 4 5 3 2 4 5
+========================
+132 of 608 - consists of 4032 - permutation 1 2 3 1 4 5 3 4 2 5
+========================
+133 of 608 - consists of 4416 - permutation 1 2 3 1 5 2 4 3 4 5
+========================
+134 of 608 - consists of 2400 - permutation 1 2 3 1 5 2 4 4 3 5
+========================
+135 of 608 - consists of 4128 - permutation 1 2 3 1 5 3 4 2 4 5
+========================
+136 of 608 - consists of 2224 - permutation 1 2 3 1 5 3 4 4 2 5
+========================
+137 of 608 - consists of 4416 - permutation 1 2 3 1 5 4 2 3 4 5
+========================
+138 of 608 - consists of 3888 - permutation 1 2 3 1 5 4 2 4 3 5
+========================
+139 of 608 - consists of 4368 - permutation 1 2 3 1 5 4 3 2 4 5
+========================
+140 of 608 - consists of 3792 - permutation 1 2 3 1 5 4 3 4 2 5
+========================
+141 of 608 - consists of 2224 - permutation 1 2 3 2 1 3 4 4 5 5
+========================
+142 of 608 - consists of 4128 - permutation 1 2 3 2 1 3 4 5 4 5
+========================
+143 of 608 - consists of 3792 - permutation 1 2 3 2 1 4 3 4 5 5
+========================
+144 of 608 - consists of 4368 - permutation 1 2 3 2 1 4 3 5 4 5
+========================
+145 of 608 - consists of 4416 - permutation 1 2 3 2 1 4 5 3 4 5
+========================
+146 of 608 - consists of 3888 - permutation 1 2 3 2 1 4 5 4 3 5
+========================
+147 of 608 - consists of 4416 - permutation 1 2 3 2 1 5 4 3 4 5
+========================
+148 of 608 - consists of 2400 - permutation 1 2 3 2 1 5 4 4 3 5
+========================
+149 of 608 - consists of 4032 - permutation 1 2 3 2 4 1 3 4 5 5
+========================
+150 of 608 - consists of 4368 - permutation 1 2 3 2 4 1 3 5 4 5
+========================
+151 of 608 - consists of 4416 - permutation 1 2 3 2 4 1 5 3 4 5
+========================
+152 of 608 - consists of 4128 - permutation 1 2 3 2 4 1 5 4 3 5
+========================
+153 of 608 - consists of 3808 - permutation 1 2 3 2 4 3 1 4 5 5
+========================
+154 of 608 - consists of 4128 - permutation 1 2 3 2 4 3 1 5 4 5
+========================
+155 of 608 - consists of 4128 - permutation 1 2 3 2 4 3 5 1 4 5
+========================
+156 of 608 - consists of 3808 - permutation 1 2 3 2 4 3 5 4 1 5
+========================
+157 of 608 - consists of 4416 - permutation 1 2 3 2 4 5 1 3 4 5
+========================
+158 of 608 - consists of 4128 - permutation 1 2 3 2 4 5 1 4 3 5
+========================
+159 of 608 - consists of 4368 - permutation 1 2 3 2 4 5 3 1 4 5
+========================
+160 of 608 - consists of 4032 - permutation 1 2 3 2 4 5 3 4 1 5
+========================
+161 of 608 - consists of 4416 - permutation 1 2 3 2 5 1 4 3 4 5
+========================
+162 of 608 - consists of 2400 - permutation 1 2 3 2 5 1 4 4 3 5
+========================
+163 of 608 - consists of 4128 - permutation 1 2 3 2 5 3 4 1 4 5
+========================
+164 of 608 - consists of 2224 - permutation 1 2 3 2 5 3 4 4 1 5
+========================
+165 of 608 - consists of 4416 - permutation 1 2 3 2 5 4 1 3 4 5
+========================
+166 of 608 - consists of 3888 - permutation 1 2 3 2 5 4 1 4 3 5
+========================
+167 of 608 - consists of 4368 - permutation 1 2 3 2 5 4 3 1 4 5
+========================
+168 of 608 - consists of 3792 - permutation 1 2 3 2 5 4 3 4 1 5
+========================
+169 of 608 - consists of 4272 - permutation 1 2 3 4 1 2 3 4 5 5
+========================
+170 of 608 - consists of 4368 - permutation 1 2 3 4 1 2 3 5 4 5
+========================
+171 of 608 - consists of 4416 - permutation 1 2 3 4 1 2 5 3 4 5
+========================
+172 of 608 - consists of 4368 - permutation 1 2 3 4 1 2 5 4 3 5
+========================
+173 of 608 - consists of 4032 - permutation 1 2 3 4 1 3 2 4 5 5
+========================
+174 of 608 - consists of 4128 - permutation 1 2 3 4 1 3 2 5 4 5
+========================
+175 of 608 - consists of 4128 - permutation 1 2 3 4 1 3 5 2 4 5
+========================
+176 of 608 - consists of 4032 - permutation 1 2 3 4 1 3 5 4 2 5
+========================
+177 of 608 - consists of 4416 - permutation 1 2 3 4 1 5 2 3 4 5
+========================
+178 of 608 - consists of 4368 - permutation 1 2 3 4 1 5 2 4 3 5
+========================
+179 of 608 - consists of 4368 - permutation 1 2 3 4 1 5 3 2 4 5
+========================
+180 of 608 - consists of 4272 - permutation 1 2 3 4 1 5 3 4 2 5
+========================
+181 of 608 - consists of 4272 - permutation 1 2 3 4 2 1 3 4 5 5
+========================
+182 of 608 - consists of 4368 - permutation 1 2 3 4 2 1 3 5 4 5
+========================
+183 of 608 - consists of 4416 - permutation 1 2 3 4 2 1 5 3 4 5
+========================
+184 of 608 - consists of 4368 - permutation 1 2 3 4 2 1 5 4 3 5
+========================
+185 of 608 - consists of 4032 - permutation 1 2 3 4 2 3 1 4 5 5
+========================
+186 of 608 - consists of 4128 - permutation 1 2 3 4 2 3 1 5 4 5
+========================
+187 of 608 - consists of 4128 - permutation 1 2 3 4 2 3 5 1 4 5
+========================
+188 of 608 - consists of 4032 - permutation 1 2 3 4 2 3 5 4 1 5
+========================
+189 of 608 - consists of 4416 - permutation 1 2 3 4 2 5 1 3 4 5
+========================
+190 of 608 - consists of 4368 - permutation 1 2 3 4 2 5 1 4 3 5
+========================
+191 of 608 - consists of 4368 - permutation 1 2 3 4 2 5 3 1 4 5
+========================
+192 of 608 - consists of 4272 - permutation 1 2 3 4 2 5 3 4 1 5
+========================
+193 of 608 - consists of 4416 - permutation 1 2 3 4 5 1 2 3 4 5
+========================
+194 of 608 - consists of 4368 - permutation 1 2 3 4 5 1 2 4 3 5
+========================
+195 of 608 - consists of 4368 - permutation 1 2 3 4 5 1 3 2 4 5
+========================
+196 of 608 - consists of 4272 - permutation 1 2 3 4 5 1 3 4 2 5
+========================
+197 of 608 - consists of 4416 - permutation 1 2 3 4 5 2 1 3 4 5
+========================
+198 of 608 - consists of 4368 - permutation 1 2 3 4 5 2 1 4 3 5
+========================
+199 of 608 - consists of 4368 - permutation 1 2 3 4 5 2 3 1 4 5
+========================
+200 of 608 - consists of 4272 - permutation 1 2 3 4 5 2 3 4 1 5
+========================
+201 of 608 - consists of 4128 - permutation 1 2 3 4 5 3 1 2 4 5
+========================
+202 of 608 - consists of 4032 - permutation 1 2 3 4 5 3 1 4 2 5
+========================
+203 of 608 - consists of 4128 - permutation 1 2 3 4 5 3 2 1 4 5
+========================
+204 of 608 - consists of 4032 - permutation 1 2 3 4 5 3 2 4 1 5
+========================
+205 of 608 - consists of 4416 - permutation 1 2 3 5 1 2 4 3 4 5
+========================
+206 of 608 - consists of 2400 - permutation 1 2 3 5 1 2 4 4 3 5
+========================
+207 of 608 - consists of 4128 - permutation 1 2 3 5 1 3 4 2 4 5
+========================
+208 of 608 - consists of 2224 - permutation 1 2 3 5 1 3 4 4 2 5
+========================
+209 of 608 - consists of 4416 - permutation 1 2 3 5 1 4 2 3 4 5
+========================
+210 of 608 - consists of 3888 - permutation 1 2 3 5 1 4 2 4 3 5
+========================
+211 of 608 - consists of 4368 - permutation 1 2 3 5 1 4 3 2 4 5
+========================
+212 of 608 - consists of 3792 - permutation 1 2 3 5 1 4 3 4 2 5
+========================
+213 of 608 - consists of 4416 - permutation 1 2 3 5 2 1 4 3 4 5
+========================
+214 of 608 - consists of 2400 - permutation 1 2 3 5 2 1 4 4 3 5
+========================
+215 of 608 - consists of 4128 - permutation 1 2 3 5 2 3 4 1 4 5
+========================
+216 of 608 - consists of 2224 - permutation 1 2 3 5 2 3 4 4 1 5
+========================
+217 of 608 - consists of 4416 - permutation 1 2 3 5 2 4 1 3 4 5
+========================
+218 of 608 - consists of 3888 - permutation 1 2 3 5 2 4 1 4 3 5
+========================
+219 of 608 - consists of 4368 - permutation 1 2 3 5 2 4 3 1 4 5
+========================
+220 of 608 - consists of 3792 - permutation 1 2 3 5 2 4 3 4 1 5
+========================
+221 of 608 - consists of 4416 - permutation 1 2 3 5 4 1 2 3 4 5
+========================
+222 of 608 - consists of 4128 - permutation 1 2 3 5 4 1 2 4 3 5
+========================
+223 of 608 - consists of 4368 - permutation 1 2 3 5 4 1 3 2 4 5
+========================
+224 of 608 - consists of 4032 - permutation 1 2 3 5 4 1 3 4 2 5
+========================
+225 of 608 - consists of 4416 - permutation 1 2 3 5 4 2 1 3 4 5
+========================
+226 of 608 - consists of 4128 - permutation 1 2 3 5 4 2 1 4 3 5
+========================
+227 of 608 - consists of 4368 - permutation 1 2 3 5 4 2 3 1 4 5
+========================
+228 of 608 - consists of 4032 - permutation 1 2 3 5 4 2 3 4 1 5
+========================
+229 of 608 - consists of 4128 - permutation 1 2 3 5 4 3 1 2 4 5
+========================
+230 of 608 - consists of 3808 - permutation 1 2 3 5 4 3 1 4 2 5
+========================
+231 of 608 - consists of 4128 - permutation 1 2 3 5 4 3 2 1 4 5
+========================
+232 of 608 - consists of 3808 - permutation 1 2 3 5 4 3 2 4 1 5
+========================
+233 of 608 - consists of 3744 - permutation 1 2 4 1 3 2 3 4 5 5
+========================
+234 of 608 - consists of 3792 - permutation 1 2 4 1 3 2 3 5 4 5
+========================
+235 of 608 - consists of 4128 - permutation 1 2 4 1 3 2 5 3 4 5
+========================
+236 of 608 - consists of 4416 - permutation 1 2 4 1 3 2 5 4 3 5
+========================
+237 of 608 - consists of 1984 - permutation 1 2 4 1 3 3 2 4 5 5
+========================
+238 of 608 - consists of 2016 - permutation 1 2 4 1 3 3 2 5 4 5
+========================
+239 of 608 - consists of 2016 - permutation 1 2 4 1 3 3 5 2 4 5
+========================
+240 of 608 - consists of 1984 - permutation 1 2 4 1 3 3 5 4 2 5
+========================
+241 of 608 - consists of 4128 - permutation 1 2 4 1 3 5 2 3 4 5
+========================
+242 of 608 - consists of 4416 - permutation 1 2 4 1 3 5 2 4 3 5
+========================
+243 of 608 - consists of 3792 - permutation 1 2 4 1 3 5 3 2 4 5
+========================
+244 of 608 - consists of 3744 - permutation 1 2 4 1 3 5 3 4 2 5
+========================
+245 of 608 - consists of 3744 - permutation 1 2 4 2 3 1 3 4 5 5
+========================
+246 of 608 - consists of 3792 - permutation 1 2 4 2 3 1 3 5 4 5
+========================
+247 of 608 - consists of 4128 - permutation 1 2 4 2 3 1 5 3 4 5
+========================
+248 of 608 - consists of 4416 - permutation 1 2 4 2 3 1 5 4 3 5
+========================
+249 of 608 - consists of 1984 - permutation 1 2 4 2 3 3 1 4 5 5
+========================
+250 of 608 - consists of 2016 - permutation 1 2 4 2 3 3 1 5 4 5
+========================
+251 of 608 - consists of 2016 - permutation 1 2 4 2 3 3 5 1 4 5
+========================
+252 of 608 - consists of 1984 - permutation 1 2 4 2 3 3 5 4 1 5
+========================
+253 of 608 - consists of 4128 - permutation 1 2 4 2 3 5 1 3 4 5
+========================
+254 of 608 - consists of 4416 - permutation 1 2 4 2 3 5 1 4 3 5
+========================
+255 of 608 - consists of 3792 - permutation 1 2 4 2 3 5 3 1 4 5
+========================
+256 of 608 - consists of 3744 - permutation 1 2 4 2 3 5 3 4 1 5
+========================
+257 of 608 - consists of 4224 - permutation 1 2 4 3 1 2 3 4 5 5
+========================
+258 of 608 - consists of 4272 - permutation 1 2 4 3 1 2 3 5 4 5
+========================
+259 of 608 - consists of 4368 - permutation 1 2 4 3 1 2 5 3 4 5
+========================
+260 of 608 - consists of 4416 - permutation 1 2 4 3 1 2 5 4 3 5
+========================
+261 of 608 - consists of 3744 - permutation 1 2 4 3 1 3 2 4 5 5
+========================
+262 of 608 - consists of 3792 - permutation 1 2 4 3 1 3 2 5 4 5
+========================
+263 of 608 - consists of 3792 - permutation 1 2 4 3 1 3 5 2 4 5
+========================
+264 of 608 - consists of 3744 - permutation 1 2 4 3 1 3 5 4 2 5
+========================
+265 of 608 - consists of 4368 - permutation 1 2 4 3 1 5 2 3 4 5
+========================
+266 of 608 - consists of 4416 - permutation 1 2 4 3 1 5 2 4 3 5
+========================
+267 of 608 - consists of 4272 - permutation 1 2 4 3 1 5 3 2 4 5
+========================
+268 of 608 - consists of 4224 - permutation 1 2 4 3 1 5 3 4 2 5
+========================
+269 of 608 - consists of 4224 - permutation 1 2 4 3 2 1 3 4 5 5
+========================
+270 of 608 - consists of 4272 - permutation 1 2 4 3 2 1 3 5 4 5
+========================
+271 of 608 - consists of 4368 - permutation 1 2 4 3 2 1 5 3 4 5
+========================
+272 of 608 - consists of 4416 - permutation 1 2 4 3 2 1 5 4 3 5
+========================
+273 of 608 - consists of 3744 - permutation 1 2 4 3 2 3 1 4 5 5
+========================
+274 of 608 - consists of 3792 - permutation 1 2 4 3 2 3 1 5 4 5
+========================
+275 of 608 - consists of 3792 - permutation 1 2 4 3 2 3 5 1 4 5
+========================
+276 of 608 - consists of 3744 - permutation 1 2 4 3 2 3 5 4 1 5
+========================
+277 of 608 - consists of 4368 - permutation 1 2 4 3 2 5 1 3 4 5
+========================
+278 of 608 - consists of 4416 - permutation 1 2 4 3 2 5 1 4 3 5
+========================
+279 of 608 - consists of 4272 - permutation 1 2 4 3 2 5 3 1 4 5
+========================
+280 of 608 - consists of 4224 - permutation 1 2 4 3 2 5 3 4 1 5
+========================
+281 of 608 - consists of 4368 - permutation 1 2 4 3 5 1 2 3 4 5
+========================
+282 of 608 - consists of 4416 - permutation 1 2 4 3 5 1 2 4 3 5
+========================
+283 of 608 - consists of 4272 - permutation 1 2 4 3 5 1 3 2 4 5
+========================
+284 of 608 - consists of 4224 - permutation 1 2 4 3 5 1 3 4 2 5
+========================
+285 of 608 - consists of 4368 - permutation 1 2 4 3 5 2 1 3 4 5
+========================
+286 of 608 - consists of 4416 - permutation 1 2 4 3 5 2 1 4 3 5
+========================
+287 of 608 - consists of 4272 - permutation 1 2 4 3 5 2 3 1 4 5
+========================
+288 of 608 - consists of 4224 - permutation 1 2 4 3 5 2 3 4 1 5
+========================
+289 of 608 - consists of 3792 - permutation 1 2 4 3 5 3 1 2 4 5
+========================
+290 of 608 - consists of 3744 - permutation 1 2 4 3 5 3 1 4 2 5
+========================
+291 of 608 - consists of 3792 - permutation 1 2 4 3 5 3 2 1 4 5
+========================
+292 of 608 - consists of 3744 - permutation 1 2 4 3 5 3 2 4 1 5
+========================
+293 of 608 - consists of 4128 - permutation 1 2 4 5 3 1 2 3 4 5
+========================
+294 of 608 - consists of 4416 - permutation 1 2 4 5 3 1 2 4 3 5
+========================
+295 of 608 - consists of 3792 - permutation 1 2 4 5 3 1 3 2 4 5
+========================
+296 of 608 - consists of 3744 - permutation 1 2 4 5 3 1 3 4 2 5
+========================
+297 of 608 - consists of 4128 - permutation 1 2 4 5 3 2 1 3 4 5
+========================
+298 of 608 - consists of 4416 - permutation 1 2 4 5 3 2 1 4 3 5
+========================
+299 of 608 - consists of 3792 - permutation 1 2 4 5 3 2 3 1 4 5
+========================
+300 of 608 - consists of 3744 - permutation 1 2 4 5 3 2 3 4 1 5
+========================
+301 of 608 - consists of 2016 - permutation 1 2 4 5 3 3 1 2 4 5
+========================
+302 of 608 - consists of 1984 - permutation 1 2 4 5 3 3 1 4 2 5
+========================
+303 of 608 - consists of 2016 - permutation 1 2 4 5 3 3 2 1 4 5
+========================
+304 of 608 - consists of 1984 - permutation 1 2 4 5 3 3 2 4 1 5
+========================
+305 of 608 - consists of 4128 - permutation 1 2 5 1 3 2 4 3 4 5
+========================
+306 of 608 - consists of 2400 - permutation 1 2 5 1 3 2 4 4 3 5
+========================
+307 of 608 - consists of 2016 - permutation 1 2 5 1 3 3 4 2 4 5
+========================
+308 of 608 - consists of 1104 - permutation 1 2 5 1 3 3 4 4 2 5
+========================
+309 of 608 - consists of 4128 - permutation 1 2 5 1 3 4 2 3 4 5
+========================
+310 of 608 - consists of 3888 - permutation 1 2 5 1 3 4 2 4 3 5
+========================
+311 of 608 - consists of 3792 - permutation 1 2 5 1 3 4 3 2 4 5
+========================
+312 of 608 - consists of 3216 - permutation 1 2 5 1 3 4 3 4 2 5
+========================
+313 of 608 - consists of 4128 - permutation 1 2 5 2 3 1 4 3 4 5
+========================
+314 of 608 - consists of 2400 - permutation 1 2 5 2 3 1 4 4 3 5
+========================
+315 of 608 - consists of 2016 - permutation 1 2 5 2 3 3 4 1 4 5
+========================
+316 of 608 - consists of 1104 - permutation 1 2 5 2 3 3 4 4 1 5
+========================
+317 of 608 - consists of 4128 - permutation 1 2 5 2 3 4 1 3 4 5
+========================
+318 of 608 - consists of 3888 - permutation 1 2 5 2 3 4 1 4 3 5
+========================
+319 of 608 - consists of 3792 - permutation 1 2 5 2 3 4 3 1 4 5
+========================
+320 of 608 - consists of 3216 - permutation 1 2 5 2 3 4 3 4 1 5
+========================
+321 of 608 - consists of 4368 - permutation 1 2 5 3 1 2 4 3 4 5
+========================
+322 of 608 - consists of 2400 - permutation 1 2 5 3 1 2 4 4 3 5
+========================
+323 of 608 - consists of 3792 - permutation 1 2 5 3 1 3 4 2 4 5
+========================
+324 of 608 - consists of 2048 - permutation 1 2 5 3 1 3 4 4 2 5
+========================
+325 of 608 - consists of 4368 - permutation 1 2 5 3 1 4 2 3 4 5
+========================
+326 of 608 - consists of 3888 - permutation 1 2 5 3 1 4 2 4 3 5
+========================
+327 of 608 - consists of 4272 - permutation 1 2 5 3 1 4 3 2 4 5
+========================
+328 of 608 - consists of 3696 - permutation 1 2 5 3 1 4 3 4 2 5
+========================
+329 of 608 - consists of 4368 - permutation 1 2 5 3 2 1 4 3 4 5
+========================
+330 of 608 - consists of 2400 - permutation 1 2 5 3 2 1 4 4 3 5
+========================
+331 of 608 - consists of 3792 - permutation 1 2 5 3 2 3 4 1 4 5
+========================
+332 of 608 - consists of 2048 - permutation 1 2 5 3 2 3 4 4 1 5
+========================
+333 of 608 - consists of 4368 - permutation 1 2 5 3 2 4 1 3 4 5
+========================
+334 of 608 - consists of 3888 - permutation 1 2 5 3 2 4 1 4 3 5
+========================
+335 of 608 - consists of 4272 - permutation 1 2 5 3 2 4 3 1 4 5
+========================
+336 of 608 - consists of 3696 - permutation 1 2 5 3 2 4 3 4 1 5
+========================
+337 of 608 - consists of 4368 - permutation 1 2 5 3 4 1 2 3 4 5
+========================
+338 of 608 - consists of 4128 - permutation 1 2 5 3 4 1 2 4 3 5
+========================
+339 of 608 - consists of 4272 - permutation 1 2 5 3 4 1 3 2 4 5
+========================
+340 of 608 - consists of 3936 - permutation 1 2 5 3 4 1 3 4 2 5
+========================
+341 of 608 - consists of 4368 - permutation 1 2 5 3 4 2 1 3 4 5
+========================
+342 of 608 - consists of 4128 - permutation 1 2 5 3 4 2 1 4 3 5
+========================
+343 of 608 - consists of 4272 - permutation 1 2 5 3 4 2 3 1 4 5
+========================
+344 of 608 - consists of 3936 - permutation 1 2 5 3 4 2 3 4 1 5
+========================
+345 of 608 - consists of 3792 - permutation 1 2 5 3 4 3 1 2 4 5
+========================
+346 of 608 - consists of 3488 - permutation 1 2 5 3 4 3 1 4 2 5
+========================
+347 of 608 - consists of 3792 - permutation 1 2 5 3 4 3 2 1 4 5
+========================
+348 of 608 - consists of 3488 - permutation 1 2 5 3 4 3 2 4 1 5
+========================
+349 of 608 - consists of 4128 - permutation 1 2 5 4 3 1 2 3 4 5
+========================
+350 of 608 - consists of 4368 - permutation 1 2 5 4 3 1 2 4 3 5
+========================
+351 of 608 - consists of 3792 - permutation 1 2 5 4 3 1 3 2 4 5
+========================
+352 of 608 - consists of 3696 - permutation 1 2 5 4 3 1 3 4 2 5
+========================
+353 of 608 - consists of 4128 - permutation 1 2 5 4 3 2 1 3 4 5
+========================
+354 of 608 - consists of 4368 - permutation 1 2 5 4 3 2 1 4 3 5
+========================
+355 of 608 - consists of 3792 - permutation 1 2 5 4 3 2 3 1 4 5
+========================
+356 of 608 - consists of 3696 - permutation 1 2 5 4 3 2 3 4 1 5
+========================
+357 of 608 - consists of 2016 - permutation 1 2 5 4 3 3 1 2 4 5
+========================
+358 of 608 - consists of 1952 - permutation 1 2 5 4 3 3 1 4 2 5
+========================
+359 of 608 - consists of 2016 - permutation 1 2 5 4 3 3 2 1 4 5
+========================
+360 of 608 - consists of 1952 - permutation 1 2 5 4 3 3 2 4 1 5
+========================
+361 of 608 - consists of 2096 - permutation 1 3 2 1 2 3 4 4 5 5
+========================
+362 of 608 - consists of 3888 - permutation 1 3 2 1 2 3 4 5 4 5
+========================
+363 of 608 - consists of 3392 - permutation 1 3 2 1 2 4 3 4 5 5
+========================
+364 of 608 - consists of 3888 - permutation 1 3 2 1 2 4 3 5 4 5
+========================
+365 of 608 - consists of 3888 - permutation 1 3 2 1 2 4 5 3 4 5
+========================
+366 of 608 - consists of 3392 - permutation 1 3 2 1 2 4 5 4 3 5
+========================
+367 of 608 - consists of 3888 - permutation 1 3 2 1 2 5 4 3 4 5
+========================
+368 of 608 - consists of 2096 - permutation 1 3 2 1 2 5 4 4 3 5
+========================
+369 of 608 - consists of 3808 - permutation 1 3 2 1 4 2 3 4 5 5
+========================
+370 of 608 - consists of 4128 - permutation 1 3 2 1 4 2 3 5 4 5
+========================
+371 of 608 - consists of 4128 - permutation 1 3 2 1 4 2 5 3 4 5
+========================
+372 of 608 - consists of 3808 - permutation 1 3 2 1 4 2 5 4 3 5
+========================
+373 of 608 - consists of 4032 - permutation 1 3 2 1 4 3 2 4 5 5
+========================
+374 of 608 - consists of 4368 - permutation 1 3 2 1 4 3 2 5 4 5
+========================
+375 of 608 - consists of 4416 - permutation 1 3 2 1 4 3 5 2 4 5
+========================
+376 of 608 - consists of 4128 - permutation 1 3 2 1 4 3 5 4 2 5
+========================
+377 of 608 - consists of 4368 - permutation 1 3 2 1 4 5 2 3 4 5
+========================
+378 of 608 - consists of 4032 - permutation 1 3 2 1 4 5 2 4 3 5
+========================
+379 of 608 - consists of 4416 - permutation 1 3 2 1 4 5 3 2 4 5
+========================
+380 of 608 - consists of 4128 - permutation 1 3 2 1 4 5 3 4 2 5
+========================
+381 of 608 - consists of 4128 - permutation 1 3 2 1 5 2 4 3 4 5
+========================
+382 of 608 - consists of 2224 - permutation 1 3 2 1 5 2 4 4 3 5
+========================
+383 of 608 - consists of 4416 - permutation 1 3 2 1 5 3 4 2 4 5
+========================
+384 of 608 - consists of 2400 - permutation 1 3 2 1 5 3 4 4 2 5
+========================
+385 of 608 - consists of 4368 - permutation 1 3 2 1 5 4 2 3 4 5
+========================
+386 of 608 - consists of 3792 - permutation 1 3 2 1 5 4 2 4 3 5
+========================
+387 of 608 - consists of 4416 - permutation 1 3 2 1 5 4 3 2 4 5
+========================
+388 of 608 - consists of 3888 - permutation 1 3 2 1 5 4 3 4 2 5
+========================
+389 of 608 - consists of 1296 - permutation 1 3 2 2 1 3 4 4 5 5
+========================
+390 of 608 - consists of 2400 - permutation 1 3 2 2 1 3 4 5 4 5
+========================
+391 of 608 - consists of 2096 - permutation 1 3 2 2 1 4 3 4 5 5
+========================
+392 of 608 - consists of 2400 - permutation 1 3 2 2 1 4 3 5 4 5
+========================
+393 of 608 - consists of 2400 - permutation 1 3 2 2 1 4 5 3 4 5
+========================
+394 of 608 - consists of 2096 - permutation 1 3 2 2 1 4 5 4 3 5
+========================
+395 of 608 - consists of 2400 - permutation 1 3 2 2 1 5 4 3 4 5
+========================
+396 of 608 - consists of 1296 - permutation 1 3 2 2 1 5 4 4 3 5
+========================
+397 of 608 - consists of 2224 - permutation 1 3 2 2 4 1 3 4 5 5
+========================
+398 of 608 - consists of 2400 - permutation 1 3 2 2 4 1 3 5 4 5
+========================
+399 of 608 - consists of 2400 - permutation 1 3 2 2 4 1 5 3 4 5
+========================
+400 of 608 - consists of 2224 - permutation 1 3 2 2 4 1 5 4 3 5
+========================
+401 of 608 - consists of 2224 - permutation 1 3 2 2 4 3 1 4 5 5
+========================
+402 of 608 - consists of 2400 - permutation 1 3 2 2 4 3 1 5 4 5
+========================
+403 of 608 - consists of 2400 - permutation 1 3 2 2 4 3 5 1 4 5
+========================
+404 of 608 - consists of 2224 - permutation 1 3 2 2 4 3 5 4 1 5
+========================
+405 of 608 - consists of 2400 - permutation 1 3 2 2 4 5 1 3 4 5
+========================
+406 of 608 - consists of 2224 - permutation 1 3 2 2 4 5 1 4 3 5
+========================
+407 of 608 - consists of 2400 - permutation 1 3 2 2 4 5 3 1 4 5
+========================
+408 of 608 - consists of 2224 - permutation 1 3 2 2 4 5 3 4 1 5
+========================
+409 of 608 - consists of 2400 - permutation 1 3 2 2 5 1 4 3 4 5
+========================
+410 of 608 - consists of 1296 - permutation 1 3 2 2 5 1 4 4 3 5
+========================
+411 of 608 - consists of 2400 - permutation 1 3 2 2 5 3 4 1 4 5
+========================
+412 of 608 - consists of 1296 - permutation 1 3 2 2 5 3 4 4 1 5
+========================
+413 of 608 - consists of 2400 - permutation 1 3 2 2 5 4 1 3 4 5
+========================
+414 of 608 - consists of 2096 - permutation 1 3 2 2 5 4 1 4 3 5
+========================
+415 of 608 - consists of 2400 - permutation 1 3 2 2 5 4 3 1 4 5
+========================
+416 of 608 - consists of 2096 - permutation 1 3 2 2 5 4 3 4 1 5
+========================
+417 of 608 - consists of 4032 - permutation 1 3 2 4 1 2 3 4 5 5
+========================
+418 of 608 - consists of 4128 - permutation 1 3 2 4 1 2 3 5 4 5
+========================
+419 of 608 - consists of 4128 - permutation 1 3 2 4 1 2 5 3 4 5
+========================
+420 of 608 - consists of 4032 - permutation 1 3 2 4 1 2 5 4 3 5
+========================
+421 of 608 - consists of 4272 - permutation 1 3 2 4 1 3 2 4 5 5
+========================
+422 of 608 - consists of 4368 - permutation 1 3 2 4 1 3 2 5 4 5
+========================
+423 of 608 - consists of 4416 - permutation 1 3 2 4 1 3 5 2 4 5
+========================
+424 of 608 - consists of 4368 - permutation 1 3 2 4 1 3 5 4 2 5
+========================
+425 of 608 - consists of 4368 - permutation 1 3 2 4 1 5 2 3 4 5
+========================
+426 of 608 - consists of 4272 - permutation 1 3 2 4 1 5 2 4 3 5
+========================
+427 of 608 - consists of 4416 - permutation 1 3 2 4 1 5 3 2 4 5
+========================
+428 of 608 - consists of 4368 - permutation 1 3 2 4 1 5 3 4 2 5
+========================
+429 of 608 - consists of 3792 - permutation 1 3 2 4 2 1 3 4 5 5
+========================
+430 of 608 - consists of 3888 - permutation 1 3 2 4 2 1 3 5 4 5
+========================
+431 of 608 - consists of 3888 - permutation 1 3 2 4 2 1 5 3 4 5
+========================
+432 of 608 - consists of 3792 - permutation 1 3 2 4 2 1 5 4 3 5
+========================
+433 of 608 - consists of 3792 - permutation 1 3 2 4 2 3 1 4 5 5
+========================
+434 of 608 - consists of 3888 - permutation 1 3 2 4 2 3 1 5 4 5
+========================
+435 of 608 - consists of 3888 - permutation 1 3 2 4 2 3 5 1 4 5
+========================
+436 of 608 - consists of 3792 - permutation 1 3 2 4 2 3 5 4 1 5
+========================
+437 of 608 - consists of 3888 - permutation 1 3 2 4 2 5 1 3 4 5
+========================
+438 of 608 - consists of 3792 - permutation 1 3 2 4 2 5 1 4 3 5
+========================
+439 of 608 - consists of 3888 - permutation 1 3 2 4 2 5 3 1 4 5
+========================
+440 of 608 - consists of 3792 - permutation 1 3 2 4 2 5 3 4 1 5
+========================
+441 of 608 - consists of 4368 - permutation 1 3 2 4 5 1 2 3 4 5
+========================
+442 of 608 - consists of 4272 - permutation 1 3 2 4 5 1 2 4 3 5
+========================
+443 of 608 - consists of 4416 - permutation 1 3 2 4 5 1 3 2 4 5
+========================
+444 of 608 - consists of 4368 - permutation 1 3 2 4 5 1 3 4 2 5
+========================
+445 of 608 - consists of 4128 - permutation 1 3 2 4 5 2 1 3 4 5
+========================
+446 of 608 - consists of 4032 - permutation 1 3 2 4 5 2 1 4 3 5
+========================
+447 of 608 - consists of 4128 - permutation 1 3 2 4 5 2 3 1 4 5
+========================
+448 of 608 - consists of 4032 - permutation 1 3 2 4 5 2 3 4 1 5
+========================
+449 of 608 - consists of 4416 - permutation 1 3 2 4 5 3 1 2 4 5
+========================
+450 of 608 - consists of 4368 - permutation 1 3 2 4 5 3 1 4 2 5
+========================
+451 of 608 - consists of 4368 - permutation 1 3 2 4 5 3 2 1 4 5
+========================
+452 of 608 - consists of 4272 - permutation 1 3 2 4 5 3 2 4 1 5
+========================
+453 of 608 - consists of 4128 - permutation 1 3 2 5 1 2 4 3 4 5
+========================
+454 of 608 - consists of 2224 - permutation 1 3 2 5 1 2 4 4 3 5
+========================
+455 of 608 - consists of 4416 - permutation 1 3 2 5 1 3 4 2 4 5
+========================
+456 of 608 - consists of 2400 - permutation 1 3 2 5 1 3 4 4 2 5
+========================
+457 of 608 - consists of 4368 - permutation 1 3 2 5 1 4 2 3 4 5
+========================
+458 of 608 - consists of 3792 - permutation 1 3 2 5 1 4 2 4 3 5
+========================
+459 of 608 - consists of 4416 - permutation 1 3 2 5 1 4 3 2 4 5
+========================
+460 of 608 - consists of 3888 - permutation 1 3 2 5 1 4 3 4 2 5
+========================
+461 of 608 - consists of 3888 - permutation 1 3 2 5 2 1 4 3 4 5
+========================
+462 of 608 - consists of 2096 - permutation 1 3 2 5 2 1 4 4 3 5
+========================
+463 of 608 - consists of 3888 - permutation 1 3 2 5 2 3 4 1 4 5
+========================
+464 of 608 - consists of 2096 - permutation 1 3 2 5 2 3 4 4 1 5
+========================
+465 of 608 - consists of 3888 - permutation 1 3 2 5 2 4 1 3 4 5
+========================
+466 of 608 - consists of 3392 - permutation 1 3 2 5 2 4 1 4 3 5
+========================
+467 of 608 - consists of 3888 - permutation 1 3 2 5 2 4 3 1 4 5
+========================
+468 of 608 - consists of 3392 - permutation 1 3 2 5 2 4 3 4 1 5
+========================
+469 of 608 - consists of 4368 - permutation 1 3 2 5 4 1 2 3 4 5
+========================
+470 of 608 - consists of 4032 - permutation 1 3 2 5 4 1 2 4 3 5
+========================
+471 of 608 - consists of 4416 - permutation 1 3 2 5 4 1 3 2 4 5
+========================
+472 of 608 - consists of 4128 - permutation 1 3 2 5 4 1 3 4 2 5
+========================
+473 of 608 - consists of 4128 - permutation 1 3 2 5 4 2 1 3 4 5
+========================
+474 of 608 - consists of 3808 - permutation 1 3 2 5 4 2 1 4 3 5
+========================
+475 of 608 - consists of 4128 - permutation 1 3 2 5 4 2 3 1 4 5
+========================
+476 of 608 - consists of 3808 - permutation 1 3 2 5 4 2 3 4 1 5
+========================
+477 of 608 - consists of 4416 - permutation 1 3 2 5 4 3 1 2 4 5
+========================
+478 of 608 - consists of 4128 - permutation 1 3 2 5 4 3 1 4 2 5
+========================
+479 of 608 - consists of 4368 - permutation 1 3 2 5 4 3 2 1 4 5
+========================
+480 of 608 - consists of 4032 - permutation 1 3 2 5 4 3 2 4 1 5
+========================
+481 of 608 - consists of 3488 - permutation 1 4 2 1 3 2 3 4 5 5
+========================
+482 of 608 - consists of 3488 - permutation 1 4 2 1 3 2 3 5 4 5
+========================
+483 of 608 - consists of 3808 - permutation 1 4 2 1 3 2 5 3 4 5
+========================
+484 of 608 - consists of 4128 - permutation 1 4 2 1 3 2 5 4 3 5
+========================
+485 of 608 - consists of 1952 - permutation 1 4 2 1 3 3 2 4 5 5
+========================
+486 of 608 - consists of 1952 - permutation 1 4 2 1 3 3 2 5 4 5
+========================
+487 of 608 - consists of 1984 - permutation 1 4 2 1 3 3 5 2 4 5
+========================
+488 of 608 - consists of 2016 - permutation 1 4 2 1 3 3 5 4 2 5
+========================
+489 of 608 - consists of 4032 - permutation 1 4 2 1 3 5 2 3 4 5
+========================
+490 of 608 - consists of 4368 - permutation 1 4 2 1 3 5 2 4 3 5
+========================
+491 of 608 - consists of 3744 - permutation 1 4 2 1 3 5 3 2 4 5
+========================
+492 of 608 - consists of 3792 - permutation 1 4 2 1 3 5 3 4 2 5
+========================
+493 of 608 - consists of 2048 - permutation 1 4 2 2 3 1 3 4 5 5
+========================
+494 of 608 - consists of 2048 - permutation 1 4 2 2 3 1 3 5 4 5
+========================
+495 of 608 - consists of 2224 - permutation 1 4 2 2 3 1 5 3 4 5
+========================
+496 of 608 - consists of 2400 - permutation 1 4 2 2 3 1 5 4 3 5
+========================
+497 of 608 - consists of 1104 - permutation 1 4 2 2 3 3 1 4 5 5
+========================
+498 of 608 - consists of 1104 - permutation 1 4 2 2 3 3 1 5 4 5
+========================
+499 of 608 - consists of 1104 - permutation 1 4 2 2 3 3 5 1 4 5
+========================
+500 of 608 - consists of 1104 - permutation 1 4 2 2 3 3 5 4 1 5
+========================
+501 of 608 - consists of 2224 - permutation 1 4 2 2 3 5 1 3 4 5
+========================
+502 of 608 - consists of 2400 - permutation 1 4 2 2 3 5 1 4 3 5
+========================
+503 of 608 - consists of 2048 - permutation 1 4 2 2 3 5 3 1 4 5
+========================
+504 of 608 - consists of 2048 - permutation 1 4 2 2 3 5 3 4 1 5
+========================
+505 of 608 - consists of 3936 - permutation 1 4 2 3 1 2 3 4 5 5
+========================
+506 of 608 - consists of 3936 - permutation 1 4 2 3 1 2 3 5 4 5
+========================
+507 of 608 - consists of 4032 - permutation 1 4 2 3 1 2 5 3 4 5
+========================
+508 of 608 - consists of 4128 - permutation 1 4 2 3 1 2 5 4 3 5
+========================
+509 of 608 - consists of 3696 - permutation 1 4 2 3 1 3 2 4 5 5
+========================
+510 of 608 - consists of 3696 - permutation 1 4 2 3 1 3 2 5 4 5
+========================
+511 of 608 - consists of 3744 - permutation 1 4 2 3 1 3 5 2 4 5
+========================
+512 of 608 - consists of 3792 - permutation 1 4 2 3 1 3 5 4 2 5
+========================
+513 of 608 - consists of 4272 - permutation 1 4 2 3 1 5 2 3 4 5
+========================
+514 of 608 - consists of 4368 - permutation 1 4 2 3 1 5 2 4 3 5
+========================
+515 of 608 - consists of 4224 - permutation 1 4 2 3 1 5 3 2 4 5
+========================
+516 of 608 - consists of 4272 - permutation 1 4 2 3 1 5 3 4 2 5
+========================
+517 of 608 - consists of 3696 - permutation 1 4 2 3 2 1 3 4 5 5
+========================
+518 of 608 - consists of 3696 - permutation 1 4 2 3 2 1 3 5 4 5
+========================
+519 of 608 - consists of 3792 - permutation 1 4 2 3 2 1 5 3 4 5
+========================
+520 of 608 - consists of 3888 - permutation 1 4 2 3 2 1 5 4 3 5
+========================
+521 of 608 - consists of 3216 - permutation 1 4 2 3 2 3 1 4 5 5
+========================
+522 of 608 - consists of 3216 - permutation 1 4 2 3 2 3 1 5 4 5
+========================
+523 of 608 - consists of 3216 - permutation 1 4 2 3 2 3 5 1 4 5
+========================
+524 of 608 - consists of 3216 - permutation 1 4 2 3 2 3 5 4 1 5
+========================
+525 of 608 - consists of 3792 - permutation 1 4 2 3 2 5 1 3 4 5
+========================
+526 of 608 - consists of 3888 - permutation 1 4 2 3 2 5 1 4 3 5
+========================
+527 of 608 - consists of 3696 - permutation 1 4 2 3 2 5 3 1 4 5
+========================
+528 of 608 - consists of 3696 - permutation 1 4 2 3 2 5 3 4 1 5
+========================
+529 of 608 - consists of 4272 - permutation 1 4 2 3 5 1 2 3 4 5
+========================
+530 of 608 - consists of 4368 - permutation 1 4 2 3 5 1 2 4 3 5
+========================
+531 of 608 - consists of 4224 - permutation 1 4 2 3 5 1 3 2 4 5
+========================
+532 of 608 - consists of 4272 - permutation 1 4 2 3 5 1 3 4 2 5
+========================
+533 of 608 - consists of 4032 - permutation 1 4 2 3 5 2 1 3 4 5
+========================
+534 of 608 - consists of 4128 - permutation 1 4 2 3 5 2 1 4 3 5
+========================
+535 of 608 - consists of 3936 - permutation 1 4 2 3 5 2 3 1 4 5
+========================
+536 of 608 - consists of 3936 - permutation 1 4 2 3 5 2 3 4 1 5
+========================
+537 of 608 - consists of 3744 - permutation 1 4 2 3 5 3 1 2 4 5
+========================
+538 of 608 - consists of 3792 - permutation 1 4 2 3 5 3 1 4 2 5
+========================
+539 of 608 - consists of 3696 - permutation 1 4 2 3 5 3 2 1 4 5
+========================
+540 of 608 - consists of 3696 - permutation 1 4 2 3 5 3 2 4 1 5
+========================
+541 of 608 - consists of 4032 - permutation 1 4 2 5 3 1 2 3 4 5
+========================
+542 of 608 - consists of 4368 - permutation 1 4 2 5 3 1 2 4 3 5
+========================
+543 of 608 - consists of 3744 - permutation 1 4 2 5 3 1 3 2 4 5
+========================
+544 of 608 - consists of 3792 - permutation 1 4 2 5 3 1 3 4 2 5
+========================
+545 of 608 - consists of 3808 - permutation 1 4 2 5 3 2 1 3 4 5
+========================
+546 of 608 - consists of 4128 - permutation 1 4 2 5 3 2 1 4 3 5
+========================
+547 of 608 - consists of 3488 - permutation 1 4 2 5 3 2 3 1 4 5
+========================
+548 of 608 - consists of 3488 - permutation 1 4 2 5 3 2 3 4 1 5
+========================
+549 of 608 - consists of 1984 - permutation 1 4 2 5 3 3 1 2 4 5
+========================
+550 of 608 - consists of 2016 - permutation 1 4 2 5 3 3 1 4 2 5
+========================
+551 of 608 - consists of 1952 - permutation 1 4 2 5 3 3 2 1 4 5
+========================
+552 of 608 - consists of 1952 - permutation 1 4 2 5 3 3 2 4 1 5
+========================
+553 of 608 - consists of 3808 - permutation 1 5 2 1 3 2 4 3 4 5
+========================
+554 of 608 - consists of 2224 - permutation 1 5 2 1 3 2 4 4 3 5
+========================
+555 of 608 - consists of 1984 - permutation 1 5 2 1 3 3 4 2 4 5
+========================
+556 of 608 - consists of 1104 - permutation 1 5 2 1 3 3 4 4 2 5
+========================
+557 of 608 - consists of 4032 - permutation 1 5 2 1 3 4 2 3 4 5
+========================
+558 of 608 - consists of 3792 - permutation 1 5 2 1 3 4 2 4 3 5
+========================
+559 of 608 - consists of 3744 - permutation 1 5 2 1 3 4 3 2 4 5
+========================
+560 of 608 - consists of 3216 - permutation 1 5 2 1 3 4 3 4 2 5
+========================
+561 of 608 - consists of 2224 - permutation 1 5 2 2 3 1 4 3 4 5
+========================
+562 of 608 - consists of 1296 - permutation 1 5 2 2 3 1 4 4 3 5
+========================
+563 of 608 - consists of 1104 - permutation 1 5 2 2 3 3 4 1 4 5
+========================
+564 of 608 - consists of 608 - permutation 1 5 2 2 3 3 4 4 1 5
+========================
+565 of 608 - consists of 2224 - permutation 1 5 2 2 3 4 1 3 4 5
+========================
+566 of 608 - consists of 2096 - permutation 1 5 2 2 3 4 1 4 3 5
+========================
+567 of 608 - consists of 2048 - permutation 1 5 2 2 3 4 3 1 4 5
+========================
+568 of 608 - consists of 1744 - permutation 1 5 2 2 3 4 3 4 1 5
+========================
+569 of 608 - consists of 4032 - permutation 1 5 2 3 1 2 4 3 4 5
+========================
+570 of 608 - consists of 2224 - permutation 1 5 2 3 1 2 4 4 3 5
+========================
+571 of 608 - consists of 3744 - permutation 1 5 2 3 1 3 4 2 4 5
+========================
+572 of 608 - consists of 2048 - permutation 1 5 2 3 1 3 4 4 2 5
+========================
+573 of 608 - consists of 4272 - permutation 1 5 2 3 1 4 2 3 4 5
+========================
+574 of 608 - consists of 3792 - permutation 1 5 2 3 1 4 2 4 3 5
+========================
+575 of 608 - consists of 4224 - permutation 1 5 2 3 1 4 3 2 4 5
+========================
+576 of 608 - consists of 3696 - permutation 1 5 2 3 1 4 3 4 2 5
+========================
+577 of 608 - consists of 3792 - permutation 1 5 2 3 2 1 4 3 4 5
+========================
+578 of 608 - consists of 2096 - permutation 1 5 2 3 2 1 4 4 3 5
+========================
+579 of 608 - consists of 3216 - permutation 1 5 2 3 2 3 4 1 4 5
+========================
+580 of 608 - consists of 1744 - permutation 1 5 2 3 2 3 4 4 1 5
+========================
+581 of 608 - consists of 3792 - permutation 1 5 2 3 2 4 1 3 4 5
+========================
+582 of 608 - consists of 3392 - permutation 1 5 2 3 2 4 1 4 3 5
+========================
+583 of 608 - consists of 3696 - permutation 1 5 2 3 2 4 3 1 4 5
+========================
+584 of 608 - consists of 3200 - permutation 1 5 2 3 2 4 3 4 1 5
+========================
+585 of 608 - consists of 4272 - permutation 1 5 2 3 4 1 2 3 4 5
+========================
+586 of 608 - consists of 4032 - permutation 1 5 2 3 4 1 2 4 3 5
+========================
+587 of 608 - consists of 4224 - permutation 1 5 2 3 4 1 3 2 4 5
+========================
+588 of 608 - consists of 3936 - permutation 1 5 2 3 4 1 3 4 2 5
+========================
+589 of 608 - consists of 4032 - permutation 1 5 2 3 4 2 1 3 4 5
+========================
+590 of 608 - consists of 3808 - permutation 1 5 2 3 4 2 1 4 3 5
+========================
+591 of 608 - consists of 3936 - permutation 1 5 2 3 4 2 3 1 4 5
+========================
+592 of 608 - consists of 3616 - permutation 1 5 2 3 4 2 3 4 1 5
+========================
+593 of 608 - consists of 3744 - permutation 1 5 2 3 4 3 1 2 4 5
+========================
+594 of 608 - consists of 3488 - permutation 1 5 2 3 4 3 1 4 2 5
+========================
+595 of 608 - consists of 3696 - permutation 1 5 2 3 4 3 2 1 4 5
+========================
+596 of 608 - consists of 3392 - permutation 1 5 2 3 4 3 2 4 1 5
+========================
+597 of 608 - consists of 4032 - permutation 1 5 2 4 3 1 2 3 4 5
+========================
+598 of 608 - consists of 4272 - permutation 1 5 2 4 3 1 2 4 3 5
+========================
+599 of 608 - consists of 3744 - permutation 1 5 2 4 3 1 3 2 4 5
+========================
+600 of 608 - consists of 3696 - permutation 1 5 2 4 3 1 3 4 2 5
+========================
+601 of 608 - consists of 3808 - permutation 1 5 2 4 3 2 1 3 4 5
+========================
+602 of 608 - consists of 4032 - permutation 1 5 2 4 3 2 1 4 3 5
+========================
+603 of 608 - consists of 3488 - permutation 1 5 2 4 3 2 3 1 4 5
+========================
+604 of 608 - consists of 3392 - permutation 1 5 2 4 3 2 3 4 1 5
+========================
+605 of 608 - consists of 1984 - permutation 1 5 2 4 3 3 1 2 4 5
+========================
+606 of 608 - consists of 1952 - permutation 1 5 2 4 3 3 1 4 2 5
+========================
+607 of 608 - consists of 1952 - permutation 1 5 2 4 3 3 2 1 4 5
+========================
+608 of 608 - consists of 1888 - permutation 1 5 2 4 3 3 2 4 1 5
+========================
+Total combined_list size: 2148288

@@ -1,0 +1,114 @@
+Two levels permutations: 56
+1 of 56 - consists of 56 - permutation 1 1 2 2 3 3 4 4
+========================
+2 of 56 - consists of 96 - permutation 1 1 2 2 3 4 3 4
+========================
+3 of 56 - consists of 136 - permutation 1 1 2 3 2 3 4 4
+========================
+4 of 56 - consists of 152 - permutation 1 1 2 3 2 4 3 4
+========================
+5 of 56 - consists of 160 - permutation 1 1 2 3 4 2 3 4
+========================
+6 of 56 - consists of 152 - permutation 1 1 2 3 4 3 2 4
+========================
+7 of 56 - consists of 160 - permutation 1 1 2 4 3 2 3 4
+========================
+8 of 56 - consists of 96 - permutation 1 1 2 4 3 3 2 4
+========================
+9 of 56 - consists of 96 - permutation 1 2 1 2 3 3 4 4
+========================
+10 of 56 - consists of 168 - permutation 1 2 1 2 3 4 3 4
+========================
+11 of 56 - consists of 152 - permutation 1 2 1 3 2 3 4 4
+========================
+12 of 56 - consists of 168 - permutation 1 2 1 3 2 4 3 4
+========================
+13 of 56 - consists of 168 - permutation 1 2 1 3 4 2 3 4
+========================
+14 of 56 - consists of 152 - permutation 1 2 1 3 4 3 2 4
+========================
+15 of 56 - consists of 168 - permutation 1 2 1 4 3 2 3 4
+========================
+16 of 56 - consists of 96 - permutation 1 2 1 4 3 3 2 4
+========================
+17 of 56 - consists of 160 - permutation 1 2 3 1 2 3 4 4
+========================
+18 of 56 - consists of 168 - permutation 1 2 3 1 2 4 3 4
+========================
+19 of 56 - consists of 168 - permutation 1 2 3 1 4 2 3 4
+========================
+20 of 56 - consists of 160 - permutation 1 2 3 1 4 3 2 4
+========================
+21 of 56 - consists of 160 - permutation 1 2 3 2 1 3 4 4
+========================
+22 of 56 - consists of 168 - permutation 1 2 3 2 1 4 3 4
+========================
+23 of 56 - consists of 168 - permutation 1 2 3 2 4 1 3 4
+========================
+24 of 56 - consists of 160 - permutation 1 2 3 2 4 3 1 4
+========================
+25 of 56 - consists of 168 - permutation 1 2 3 4 1 2 3 4
+========================
+26 of 56 - consists of 160 - permutation 1 2 3 4 1 3 2 4
+========================
+27 of 56 - consists of 168 - permutation 1 2 3 4 2 1 3 4
+========================
+28 of 56 - consists of 160 - permutation 1 2 3 4 2 3 1 4
+========================
+29 of 56 - consists of 168 - permutation 1 2 4 1 3 2 3 4
+========================
+30 of 56 - consists of 96 - permutation 1 2 4 1 3 3 2 4
+========================
+31 of 56 - consists of 168 - permutation 1 2 4 2 3 1 3 4
+========================
+32 of 56 - consists of 96 - permutation 1 2 4 2 3 3 1 4
+========================
+33 of 56 - consists of 168 - permutation 1 2 4 3 1 2 3 4
+========================
+34 of 56 - consists of 152 - permutation 1 2 4 3 1 3 2 4
+========================
+35 of 56 - consists of 168 - permutation 1 2 4 3 2 1 3 4
+========================
+36 of 56 - consists of 152 - permutation 1 2 4 3 2 3 1 4
+========================
+37 of 56 - consists of 152 - permutation 1 3 2 1 2 3 4 4
+========================
+38 of 56 - consists of 152 - permutation 1 3 2 1 2 4 3 4
+========================
+39 of 56 - consists of 160 - permutation 1 3 2 1 4 2 3 4
+========================
+40 of 56 - consists of 168 - permutation 1 3 2 1 4 3 2 4
+========================
+41 of 56 - consists of 96 - permutation 1 3 2 2 1 3 4 4
+========================
+42 of 56 - consists of 96 - permutation 1 3 2 2 1 4 3 4
+========================
+43 of 56 - consists of 96 - permutation 1 3 2 2 4 1 3 4
+========================
+44 of 56 - consists of 96 - permutation 1 3 2 2 4 3 1 4
+========================
+45 of 56 - consists of 160 - permutation 1 3 2 4 1 2 3 4
+========================
+46 of 56 - consists of 168 - permutation 1 3 2 4 1 3 2 4
+========================
+47 of 56 - consists of 152 - permutation 1 3 2 4 2 1 3 4
+========================
+48 of 56 - consists of 152 - permutation 1 3 2 4 2 3 1 4
+========================
+49 of 56 - consists of 160 - permutation 1 4 2 1 3 2 3 4
+========================
+50 of 56 - consists of 96 - permutation 1 4 2 1 3 3 2 4
+========================
+51 of 56 - consists of 96 - permutation 1 4 2 2 3 1 3 4
+========================
+52 of 56 - consists of 56 - permutation 1 4 2 2 3 3 1 4
+========================
+53 of 56 - consists of 160 - permutation 1 4 2 3 1 2 3 4
+========================
+54 of 56 - consists of 152 - permutation 1 4 2 3 1 3 2 4
+========================
+55 of 56 - consists of 152 - permutation 1 4 2 3 2 1 3 4
+========================
+56 of 56 - consists of 136 - permutation 1 4 2 3 2 3 1 4
+========================
+Total combined_list size: 7968
