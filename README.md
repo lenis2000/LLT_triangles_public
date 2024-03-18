@@ -8,7 +8,7 @@ The repository includes the following files, listed together with ways to run th
     python3 LLT.py
     ```
     - The function `unique_permutations_two(n)` finds two-level colored interlacing triangles with `n` colors.
-    - The function `unique_permutations_three(n)` finds three-level colored interlacing triangles with `n` colors, and outputs them into the file `depth3_colorsn.txt`, where `n` is the number of specified colors. The file for `n=3` is already included in the repository as an example.
+    - The function `unique_permutations_three(n)` finds three-level colored interlacing triangles with `n` colors, and outputs them into the file `depth3_colorsn.txt`, where `n` is the number of specified colors.
 - `two_levels_fast_code.cpp` is a C++ file without threads; ran as
     ```
     g++ -std=c++11 -O3 two_levels_fast_code.cpp -o two_levels_fast_code.out
